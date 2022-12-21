@@ -66,8 +66,8 @@
 - =SPC b b= to open another buffer
   - workspace buffer
 - =SPC b B= you can see all the buffer
-- =SPC ,= to switch buffers (its an alias)
-- =SPC SHIFT ,= to switch to all buffers
+- =SPC \,= to switch buffers (its an alias)
+- =SPC SHIFT \,= to switch to all buffers
 - =SPC b X= You can create a scratch buffer
 - =SPC b s= to save and name it
 ** Windows
